@@ -1,4 +1,4 @@
-"""
+
 # 👨‍💻 Hybrid Cloud & Network Engineer Portfolio
 
 Welcome to my professional IT/cloud/networking lab portfolio. I’m transitioning from a field-based telecom engineer role (Telenet subcontractor) into a hybrid Cloud & Network Engineer career with a focus on:
@@ -41,4 +41,3 @@ Welcome to my professional IT/cloud/networking lab portfolio. I’m transitionin
 
 - LinkedIn: https://www.linkedin.com/in/jeffrey-de-laet-48a7a4b6/
 - Email: info@jefsitentelecom.be
-"""
